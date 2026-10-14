@@ -1,0 +1,2 @@
+Modelo,RMSE_CV_Mean,RMSE_CV_Std,MAE_Test,RMSE_Test,R2_Test
+Random Forest,770.375,804.665,85.57,384.65,0.9954
