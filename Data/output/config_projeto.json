@@ -1,0 +1,22 @@
+{
+    "PROJETO": "Colheitas-Sangue-Portugal",
+    "TARGET": "no_total_de_unidades_de_sangue_colhidas",
+    "PROBLEM_TYPE": "regression",
+    "ID_COLS": [],
+    "NUM_COLS": [
+        "no_total_de_unidades_de_sangue_colhidas_no_grupo_etario_25_anos"
+    ],
+    "CAT_COLS": [
+        "regiao",
+        "entidade",
+        "localizacao_geografica",
+        "grupo_sanguineo"
+    ],
+    "RANDOM_STATE": 42,
+    "TEST_SIZE": 0.2,
+    "ESTRATEGIA_NUM": "median",
+    "ESTRATEGIA_CAT": "most_frequent",
+    "ADD_INDICATOR": true,
+    "SCALER": "RobustScaler",
+    "USAR_PCA": false
+}
